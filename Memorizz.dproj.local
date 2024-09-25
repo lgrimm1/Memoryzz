@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/03/16 22:00:50.000.715,=C:\Users\LaLiLu\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/06/06 21:57:08.000.728,=C:\Users\LaLiLu\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/06/06 21:59:16.000.708,D:\Works\Lacus\Programming_Delphi\Memoryzz\UnitMain.pas=C:\Users\LaLiLu\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/06/06 21:59:16.000.708,D:\Works\Lacus\Programming_Delphi\Memoryzz\UnitMain.dfm=C:\Users\LaLiLu\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2024/06/06 21:59:23.000.955,D:\Works\Lacus\Programming_Delphi\Memoryzz\Memorizz.dproj=C:\Users\LaLiLu\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2024/06/06 22:29:38.000.025,=D:\Works\Lacus\Programming_Delphi\Memoryzz\Unit1.pas</Transaction>
+    <Transaction>2024/06/06 22:31:43.000.293,D:\Works\Lacus\Programming_Delphi\Memoryzz\UnitLearning.dfm=D:\Works\Lacus\Programming_Delphi\Memoryzz\Unit1.dfm</Transaction>
+    <Transaction>2024/06/06 22:31:43.000.293,D:\Works\Lacus\Programming_Delphi\Memoryzz\UnitLearning.pas=D:\Works\Lacus\Programming_Delphi\Memoryzz\Unit1.pas</Transaction>
+    <Transaction>2024/06/06 22:31:50.000.071,=D:\Works\Lacus\Programming_Delphi\Memoryzz\Unit1.pas</Transaction>
+    <Transaction>2024/06/06 22:32:03.000.590,D:\Works\Lacus\Programming_Delphi\Memoryzz\UnitManagement.pas=D:\Works\Lacus\Programming_Delphi\Memoryzz\Unit1.pas</Transaction>
+    <Transaction>2024/06/06 22:32:03.000.590,D:\Works\Lacus\Programming_Delphi\Memoryzz\UnitManagement.dfm=D:\Works\Lacus\Programming_Delphi\Memoryzz\Unit1.dfm</Transaction>
+    <Transaction>2024/06/07 17:45:24.000.694,=D:\Works\Lacus\Programming_Delphi\Memoryzz\Unit1.pas</Transaction>
+    <Transaction>2024/06/07 17:46:25.000.571,D:\Works\Lacus\Programming_Delphi\Memoryzz\Unit1.pas=D:\Works\Lacus\Programming_Delphi\Memoryzz\UnitDefinitionMeaningPair.pas</Transaction>
+    <Transaction>2024/06/07 18:09:49.000.966,=D:\Works\Lacus\Programming_Delphi\Memoryzz\Unit1.pas</Transaction>
+    <Transaction>2024/06/07 18:10:15.000.605,D:\Works\Lacus\Programming_Delphi\Memoryzz\Unit1.pas=D:\Works\Lacus\Programming_Delphi\Memoryzz\UnitCategories.pas</Transaction>
+    <Transaction>2024/06/07 19:27:33.000.487,=D:\Works\Lacus\Programming_Delphi\Memoryzz\Unit1.pas</Transaction>
+    <Transaction>2024/06/07 19:27:41.000.493,D:\Works\Lacus\Programming_Delphi\Memoryzz\Unit1.pas=D:\Works\Lacus\Programming_Delphi\Memoryzz\UnitPairs.pas</Transaction>
+    <Transaction>2024/06/08 12:00:11.000.701,=D:\Works\Lacus\Programming_Delphi\Memoryzz\Unit1.pas</Transaction>
+    <Transaction>2024/06/08 12:00:55.000.354,D:\Works\Lacus\Programming_Delphi\Memoryzz\Unit1.pas=D:\Works\Lacus\Programming_Delphi\Memoryzz\UnitRepository.pas</Transaction>
+    <Transaction>2024/06/11 12:02:30.000.801,=D:\Works\Lacus\Programming_Delphi\Memoryzz\Unit1.pas</Transaction>
+    <Transaction>2024/06/11 12:02:49.000.756,D:\Works\Lacus\Programming_Delphi\Memoryzz\Unit1.pas=D:\Works\Lacus\Programming_Delphi\Memoryzz\UnitRepositoryService.pas</Transaction>
+    <Transaction>2024/06/14 17:02:17.000.531,=D:\Works\Lacus\Programming_Delphi\Memoryzz\Unit1.pas</Transaction>
+    <Transaction>2024/06/14 17:02:32.000.121,D:\Works\Lacus\Programming_Delphi\Memoryzz\UnitMainService.pas=D:\Works\Lacus\Programming_Delphi\Memoryzz\Unit1.pas</Transaction>
+    <Transaction>2024/06/14 19:23:09.000.979,D:\Works\Lacus\Programming_Delphi\Memoryzz\UnitMainService.pas=</Transaction>
+    <Transaction>2024/06/14 20:00:23.000.395,=D:\Works\Lacus\Programming_Delphi\Memoryzz\Unit1.pas</Transaction>
+    <Transaction>2024/06/14 20:00:33.000.481,D:\Works\Lacus\Programming_Delphi\Memoryzz\UnitLearningService.pas=D:\Works\Lacus\Programming_Delphi\Memoryzz\Unit1.pas</Transaction>
+    <Transaction>2024/06/16 19:32:41.000.343,D:\Works\Lacus\Programming_Delphi\Memoryzz\UnitManagement.pas=</Transaction>
+  </Transactions>
+</BorlandProject>
